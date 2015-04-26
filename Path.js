@@ -6,7 +6,7 @@
 'use strict';
 
 hw2.define([
-    'hw2!PATH_JS_LIB:filesystem/include.js'
+    'hw2!{PATH_JS_LIB}filesystem/include.js'
 ],function () {
     var $ = this;
     $.Path = $.Class({members: [
