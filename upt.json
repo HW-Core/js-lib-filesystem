@@ -6,7 +6,7 @@
     },
     "devDependencies": {
         "%tests": "hw2-core/js-library-filesystem#tests",
-        "%doc": "hw2-core/js-library-filesystem#doc"
+        "%doc": "hw2-core/js-library-filesystem#gh-pages"
     },
     "_comment_keep": "ensure we keep the right git repository configurations",
     "keep": [
