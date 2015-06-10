@@ -5,9 +5,9 @@
 
 'use strict';
 
-hw2.define([
-    'hw2!{PATH_JS_LIB}filesystem/include.js',
-    'hw2!{PATH_JS_LIB}filesystem/Path.js'
+hwc.define([
+    'hwc!{PATH_JS_LIB}filesystem/include.js',
+    'hwc!{PATH_JS_LIB}filesystem/Path.js'
 ],function () {
     var $ = this;
 });

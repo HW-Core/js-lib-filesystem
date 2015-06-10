@@ -1,12 +1,12 @@
 {
-    "name": "hw2/modules/js/src/library/filesystem",
+    "name": "hwcore/modulesjs/src/library/filesystem",
     "license": "http://www.hyperweb2.com/terms",
     "dependencies": {
-        "%class": "hw2-core/js-library-class#*"
+        "%class": "hw-core/js-library-class#*"
     },
     "devDependencies": {
-        "%tests": "hw2-core/js-library-filesystem#tests",
-        "%doc": "hw2-core/js-library-filesystem#gh-pages"
+        "%tests": "hw-core/js-library-filesystem#tests",
+        "%doc": "hw-core/js-library-filesystem#gh-pages"
     },
     "_comment_keep": "ensure we keep the right git repository configurations",
     "keep": [
